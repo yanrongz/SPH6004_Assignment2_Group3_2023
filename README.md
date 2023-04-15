@@ -1,6 +1,7 @@
 # SPH6004 Group Assignment - Team 3
-## Contributors
+# Contributors
 
+---
 **Title**: Predictive model for duration of intubation in ICU inpatients  
 **List of authors:**
 - Liang Jingyu
@@ -10,6 +11,9 @@
 - Zhang Yanrong
 - Gu Tianyuan
 - Miao Siyu
+---
+
+
 
 
 
